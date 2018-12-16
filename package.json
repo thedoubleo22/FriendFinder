@@ -1,0 +1,24 @@
+{
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apiRoutes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedoubleo22/FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thedoubleo22/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/thedoubleo22/FriendFinder#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1"
+  }
+}
