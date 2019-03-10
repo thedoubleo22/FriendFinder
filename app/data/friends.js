@@ -54,8 +54,8 @@ var friends = [
       ]
     },
     {
-      name: "Louis T. Delia",
-      photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+      name: "Morgan Freeman",
+      photo: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/01/19/14/morganfreeman1901a.jpg?w968",
       scores: [
         "3",
         "3",
