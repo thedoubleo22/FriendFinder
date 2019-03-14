@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/thedoubleo22/FriendFinder#readme",
   "dependencies": {
+    "express": "^4.16.4",
     "inquirer": "^6.2.1"
   }
 }
